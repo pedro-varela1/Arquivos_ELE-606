@@ -7,4 +7,4 @@ Esse repositório contém:
 - Atividade 3 - Classificação da base de dados Wine com Árvores de Decisão
 - Atividade 4 - Classificação da base de dados Heart Desease com Árvores de Decisão
 
-Além de uma pastas com os relatórios em pdf, como solicitado pelo professor. 
+Além de uma pasta _Relatorios_ com os relatórios em pdf, como solicitado pelo professor. 
