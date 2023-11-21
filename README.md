@@ -11,5 +11,6 @@ Esse repositório contém:
 - Atividade 7 - Classificação da base de dados Iris com Multi Layer Perceptron
 - Atividade 8 - Classificação da base de dados MNIST com Naive Bayes
 - Atividade 9 - Agrupamento da base de dados Wine com Mean Shift Clustering
+- Apresentação ML - Resumo dos capítulos ímpares do livro utilizado em sala de aula
 
 Além de uma pasta _Relatorios_ com os relatórios em pdf, como solicitado pelo professor. 
