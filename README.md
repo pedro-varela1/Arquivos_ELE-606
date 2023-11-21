@@ -9,5 +9,7 @@ Esse repositório contém:
 - Atividade 5 - Classificação de dados gerados com o LVQ
 - Atividade 6 - Classificação da base de dados Iris com Suport Vector Machines
 - Atividade 7 - Classificação da base de dados Iris com Multi Layer Perceptron
+- Atividade 8 - Classificação da base de dados MNIST com Naive Bayes
+- Atividade 9 - Agrupamento da base de dados Wine com Mean Shift Clustering
 
 Além de uma pasta _Relatorios_ com os relatórios em pdf, como solicitado pelo professor. 
