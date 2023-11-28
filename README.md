@@ -12,5 +12,6 @@ Esse repositório contém:
 - Atividade 8 - Classificação da base de dados MNIST com Naive Bayes
 - Atividade 9 - Agrupamento da base de dados Wine com Mean Shift Clustering
 - Apresentação ML - Resumo dos capítulos ímpares do livro utilizado em sala de aula
+- MLP - Projeto de MultiLayer Perceptron com a base de dados Yale Face
 
 Além de uma pasta _Relatorios_ com os relatórios em pdf, como solicitado pelo professor. 
