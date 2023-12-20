@@ -13,5 +13,6 @@ Esse repositório contém:
 - Atividade 9 - Agrupamento da base de dados Wine com Mean Shift Clustering
 - Apresentação ML - Resumo dos capítulos ímpares do livro utilizado em sala de aula
 - MLP - Projeto de MultiLayer Perceptron e CNN com a base de dados Yale Face
+- NLP - Projeto de Natural Language Processing para classificação de spam com diferentes classificadores
 
 Além de uma pasta _Relatorios_ com os relatórios em pdf, como solicitado pelo professor. 
